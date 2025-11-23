@@ -2,7 +2,7 @@
 <a name="top"></a> ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-brightgreen) ![Last Updated](https://img.shields.io/badge/Last%20Updated-Nov%2023,%202025-blue)
 
 
-*A curated repository of Retrieval-Augmented Generation (RAG) research papers, currently focused on systems and architecture contributions from major DB/OS venues (SIGMOD, VLDB, OSDI, SOSP, NSDI, etc.).*
+*A curated repository of Retrieval-Augmented Generation (RAG) research papers, currently focused on systems and architecture contributions from major DB/OS venues (SIGMOD, VLDB, OSDI, NSDI, etc.).*
 
 
 # RAG system
