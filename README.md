@@ -7,14 +7,13 @@
 
 # RAG system
 ## 🗓️ 2025
+- [Compute-Enabled CXL Memory Expansion for Efficient Retrieval Augmented Generation](https://ieeexplore.ieee.org/document/11022767)(2025-06-13)(MICRO 2025)
 
 - [RAGO: Systematic Performance Optimization for Retrieval-Augmented Generation Serving](https://arxiv.org/abs/2503.14649) (2025-03-21)(ISCA 2025)
 
 - [Cache-Craft: Managing Chunk-Caches for Efficient Retrieval-Augmented Generation](https://arxiv.org/abs/2502.15734)(2025-02-25)(SIGMOD 2025)
 
 - [Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search](https://arxiv.org/abs/2411.14754)(2025-01-13)(SIGMOD 2025)
-
-- [Compute-Enabled CXL Memory Expansion for Efficient Retrieval Augmented Generation](https://ieeexplore.ieee.org/document/11022767)(2025-06-13)(MICRO 2025)
 
 - [Scalable Graph-based Retrieval-Augmented Generation via Locality-Sensitive Hashing](https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/LLM+Graph/LLMGraph-3.pdf) (VLDB 2025 Workshop)
 
